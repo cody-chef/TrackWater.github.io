@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">WateryDroid</string>
+    <string name="pref_header_general">General</string>
+    <string name="pref_notification_message">Display message</string>
+    <string name="pref_notification_message_value">It is time to drink some water!</string>
+    <string name="pref_title_notification_frequency">Notification frequency</string>
+    <string-array name="pref_notification_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>2 hours</item>
+        <item>3 hours</item>
+    </string-array>
+    <string-array name="pref_notification_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>189</item>
+    </string-array>
+    <string name="pref_header_notifications">Notifications</string>
+    <string name="pref_title_new_message_notifications">Drink water notifications</string>
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+    <string name="pref_notification_start">Start to notify at</string>
+    <string name="pref_notification_stop">Stop notifications at</string>
+    <string name="settings_time_set">Set</string>
+    <string name="settings_time_cancel">Cancel</string>
+</resources>
